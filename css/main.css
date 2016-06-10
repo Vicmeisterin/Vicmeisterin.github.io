@@ -41,14 +41,16 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+/* added the background color */
 body {
-    background-color: yellow;
+    background-color: white;
 }
 
 h1 {
-    background-color: #00ff00;
+    background-color: black;
 }
 
 p {
-    background-color: rgb(255,0,255);
+    background-color: white;
 }
